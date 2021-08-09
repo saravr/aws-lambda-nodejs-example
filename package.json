@@ -1,0 +1,8 @@
+{
+  "dependencies": {
+    "@aws-sdk/client-lambda": "^3.25.0",
+    "adm-zip": "^0.5.5",
+    "aws-sdk": "^2.963.0",
+    "path": "^0.12.7"
+  }
+}
